@@ -10,7 +10,7 @@ A little exercise to get started with the specification phase of the software de
 [Yeshni Savadatti](https://github.com/yeshnii) <br>
 
 ## Stakeholders
-The interviewed stakeholder are Michael Salvati, Justin Engstler,Jackson Reynolds, and Landen Messner.(NYU Physic Lab Faculty Members)
+The interviewed stakeholder are Michael Salvati(Manager of Undergraduate Labs and Demonstrations), Justin Engstler(Lab Demonstration Administrator),Jackson Reynolds(Lab technician), and Landen Messner(Lab technician),Jina Zheng(Student Worker).(NYU Physic Lab Faculty Members)
 
  ### Features of the Lab Inventory Management App:
 
@@ -42,15 +42,16 @@ The interviewed stakeholder are Michael Salvati, Justin Engstler,Jackson Reynold
 Our Lab Inventory Management App empowers NYU Physics Lab faculty (or other Labs) to efficiently track, manage, and maintain lab equipment, ensuring streamlined operations, real-time equipment status updates, and simplified borrowing and returning processes, reducing errors and improving resource availability. 
 
 ## User Requirements
-As a scientist, I want a system to keep track of equipment so that I can start my labs with less delays. <br>
-As a lab assistant, I want to know when equipment is removed or broken so that I can let my manager know and we can order new ones.  <br>
-As a lab technician, I want a digital system to checkout equipment so that I can reserve my equipment ahead of time for my team.  <br>
-As a grad student, I want a system to see what equipment I’d have access to so that I can design experiments accordingly.  <br>
-As a lab worker, I want to sign up so that I can organize and keep track of my lab equipment. <br>
-As a business owner, I want to sign up so that I can keep track of the business's inventory in the storage warehouse. <br>
-As a grocery store/ supermarket owner, I want to sign up so that I can see the locations of the items I am selling. <br>
-As a lab user, I want to sign up so that I can see where all the equipment is and where to return it. <br>
-
+1. As a scientist, I want a system to keep track of equipment so that I can start my labs with less delays. <br>
+2. As a lab assistant, I want to know when equipment is removed or broken so that I can let my manager know and we can order new ones.  <br>
+3. As a lab technician, I want a digital system to checkout equipment so that I can reserve my equipment ahead of time for my team.  <br>
+4. As a grad student, I want a system to see what equipment I’d have access to so that I can design experiments accordingly.  <br>
+5. As a lab worker, I want to sign up so that I can organize and keep track of my lab equipment. <br>
+6. As a business owner, I want to sign up so that I can keep track of the business's inventory in the storage warehouse. <br>
+7. As a grocery store/ supermarket owner, I want to sign up so that I can see the locations of the items I am selling. <br>
+8. As a lab user, I want to sign up so that I can see where all the equipment is and where to return it. <br>
+9. As a lab manager, I want a digital system to know which equipments need to repair easilu so I can order them before the lab using it. <br>
+10. As a lab Demo Manager, I want check out the number of equipements(I may use) still available, so I can use them to do some experiment and don't influence daily lab class to using equipements.<br>
 For All: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Estimation of Effort: M <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Acceptance Criteria: <br>
